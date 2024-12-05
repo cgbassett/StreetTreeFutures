@@ -1,2 +1,2 @@
-# street-tree-futures
+# StreetTreeFutures.github.io
 Street Tree Futures research project.
