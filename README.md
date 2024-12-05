@@ -7,7 +7,6 @@ A collaborative research project bridging the gaps between site-level actions an
 
 ## Outreach
 - Coming soon!
--
 
 ## Team
 This project was led by a team based the [University of British Columbia Faculty of Forestry](https://forestry.ubc.ca/).
@@ -24,4 +23,5 @@ Research Team:
 
 Many thanks to the contributions and advising by practitioner advisory committee members Dana Karcher, Rachel Holmes, Matt Spitsen, and Jordan Endahl.
 
-
+## Funding
+*This project was funded in part by the Social Sciences & Humanities Research Council of Canada.*
