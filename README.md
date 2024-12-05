@@ -17,7 +17,7 @@ Research Team:
 - Dr. Lara A. Roman, [USDA Forest Service Pacific Southwest Research Station](https://research.fs.usda.gov/about/people/lroman)
 - Dr. Kai M. A. Chan, [CHANS LAB, UBC IRES](https://chanslab.ires.ubc.ca/)
 
-- Corinne G. Bassett, PhD Student & Project Leader
+- Corinne (Corey) G. Bassett, PhD Student & Project Leader
 - Chanel Yee, Research Assistant
 - Angel Bao, Research Assistant
 
