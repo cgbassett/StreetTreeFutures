@@ -1,5 +1,5 @@
 ## About
-A collaborative research project bridging the gaps between site-level actions and strategic-level goals in urban forestry.
+A collaborative research project bridging the gaps between site-level actions and strategic-level goals in urban forestry to help achieve urban sustainability goals.
 
 ## Research
 - Publications (coming soon!)
