@@ -1,4 +1,4 @@
-# Street Tree Futures
+## About
 A collaborative research project bridging the gaps between site-level actions and strategic-level goals in urban forestry.
 
 ## Team
