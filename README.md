@@ -15,7 +15,7 @@ Research Team:
 - Dr. Susan D. Day (PI), [Urban Forest Ecosystems Lab, UBC Forestry](https://www.urbanforestryhub.com/ufel)
 - Dr. Cecil C. Konijnendijk (Co-PI), [Nature-Based Solutions Institute](https://nbsi.eu/)
 - Dr. Lara A. Roman, [USDA Forest Service Pacific Southwest Research Station](https://research.fs.usda.gov/about/people/lroman)
-- Dr. Kai M. A. Chan, [CHANS LAB, UBC IRES](https://chanslab.ires.ubc.ca/)
+- Dr. Kai M. A. Chan, [CHANS LAB, UBC Institute for Resources, Environment, and Sustainability](https://chanslab.ires.ubc.ca/)
 
 - Corinne (Corey) G. Bassett, PhD Student & Project Leader
 - Chanel Yee, Research Assistant
