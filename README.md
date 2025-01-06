@@ -2,8 +2,9 @@
 A collaborative research project bridging the gaps in urban forestry between site-level actions and strategic-level urban sustainability goals.
 
 ## Research
-- Publications (coming soon!)
-- Links
+- Publications (more coming soon!)
+
+Bassett, C. G., S. D. Day, C. C. Konijnendijk, L. A. Roman, and V. Hemming. 2024. Aligning urban forest management actions with urban sustainability goals: A multi-city expert elicitation. Ecosphere 15:e70120. https://doi.org/10.1002/ecs2.70120 ***(open access!)***
 
 ## Outreach
 - Coming soon!
