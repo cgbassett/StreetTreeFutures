@@ -4,6 +4,8 @@ A collaborative research project bridging the gaps in urban forestry between sit
 ## Research
 - Publications (more coming soon!)
 
+Bassett, C.G., Day, S.D., Konijnendijk, C.C., Chan, K.M.A., Roman, L.A., 2025. From tyranny to hope: Harnessing the power of small decisions to achieve urban sustainability goals. Environmental Science & Policy 170, 104125. [https://doi.org/10.1016/j.envsci.2025.104125](https://doi.org/10.1016/j.envsci.2025.104125) ***(open access!)***
+
 Bassett, C. G., S. D. Day, C. C. Konijnendijk, L. A. Roman, and V. Hemming. 2024. Aligning urban forest management actions with urban sustainability goals: A multi-city expert elicitation. Ecosphere 15:e70120. [https://doi.org/10.1002/ecs2.70120](https://doi.org/10.1002/ecs2.70120) ***(open access!)***
 
 ## Outreach materials
