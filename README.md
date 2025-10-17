@@ -9,7 +9,7 @@ Bassett, C.G., Day, S.D., Konijnendijk, C.C., Roman, L.A., Yee, C.K., Chan, K.M.
 
 Bassett, C. G., S. D. Day, C. C. Konijnendijk, L. A. Roman, and V. Hemming. 2024. Aligning urban forest management actions with urban sustainability goals: A multi-city expert elicitation. Ecosphere 15:e70120. [https://doi.org/10.1002/ecs2.70120](https://doi.org/10.1002/ecs2.70120)
 
-Bassett, C.G., Day, S.D., Konijnendijk, C.C., Roman, L.A., 2025. Small decisions as social and ecological leverage points for cities to meet sustainability goals: A synthesis for urban forestry research and practice. Urban Forestry & Urban Greening 113, 129114. [https://doi.org/10.1016/j.ufug.2025.129114]https://doi.org/10.1016/j.ufug.2025.129114
+Bassett, C.G., Day, S.D., Konijnendijk, C.C., Roman, L.A., 2025. Small decisions as social and ecological leverage points for cities to meet sustainability goals: A synthesis for urban forestry research and practice. Urban Forestry & Urban Greening 113, 129114. [https://doi.org/10.1016/j.ufug.2025.129114](https://doi.org/10.1016/j.ufug.2025.129114)
 
 
 ## Outreach materials
