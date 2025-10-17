@@ -24,7 +24,7 @@ Bassett, C.G., Day, S.D., Konijnendijk, C.C., Roman, L.A., 2025. Small decisions
 ## Outreach materials
 **1 pg Study Recap** [Do you need different street tree management actions for different sustainability goals?](https://cgbassett.github.io/StreetTreeFutures/PDFs/Bassett_StreetTreeFutures_EEStudy1pg_Jan25.pdf)
 
-**Graphical abstract**: How do adopted city sustainability goals influence site-level action in urban forestry?
+**Graphical abstract**: [How do adopted city sustainability goals influence site-level action in urban forestry?](https://doi.org/10.1007/s13280-025-02247-0)
 ![Graphical abstract](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13280-025-02247-0/MediaObjects/13280_2025_2247_Figa_HTML.png?as=webp)
 
 ## Team
