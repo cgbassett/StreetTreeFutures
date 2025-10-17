@@ -16,7 +16,7 @@ Bassett, C.G., Day, S.D., Konijnendijk, C.C., Roman, L.A., 2025. Small decisions
 [1 pg Study Recap:](https://cgbassett.github.io/StreetTreeFutures/PDFs/Bassett_StreetTreeFutures_EEStudy1pg_Jan25.pdf) "Do you need different street tree management actions for different sustainability goals?"
 
 ## Team
-This project was led by a team based the [University of British Columbia Faculty of Forestry](https://forestry.ubc.ca/).
+This project was led by a team based at the [University of British Columbia Faculty of Forestry](https://forestry.ubc.ca/).
 
 Research Team:
 - Dr. Susan D. Day (PI), [Urban Forest Ecosystems Lab, UBC Forestry](https://www.urbanforestryhub.com/ufel)
