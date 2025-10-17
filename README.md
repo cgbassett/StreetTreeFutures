@@ -1,7 +1,7 @@
 ## About
 A collaborative research project bridging the gaps in urban forestry between site-level actions and strategic-level urban sustainability goals.
 
-## Research (all available open access!)
+## Research (all publications are open access!)
 
 ### We asked: How do direct, site-level urban forest management actions contribute to strategic-level urban sustainability goals?
 
